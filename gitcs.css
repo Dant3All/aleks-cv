@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    line-height: 1.4em;
+    vertical-align: baseline;
+    text-decoration: none;
+    outline: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    line-height: 1.4em;
+    vertical-align: baseline;
+    text-decoration: none;
+    outline: 0;
+    }
+#bc
+{
+    border: 0;
+    background-color: rgb(247, 230, 207);
+    width: auto;
+    height: 800px;
+    
+}
+.top
+{
+
+}
+.content
+{
+
+}
+.botom
+{
+
+}
+.circular {
+	width: 400px;
+    height: 700px;
+    float: left;
+	border-radius: 150px;
+	-webkit-border-radius: 150px;
+	-moz-border-radius: 150px;
+	background: url(alekszd.jpg) no-repeat;
+    }
+    
+  .omnie
+  {
+      align:center;
+      float-left;
+      border-left;
+  }
